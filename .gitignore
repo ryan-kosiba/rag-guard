@@ -1,1 +1,2 @@
-config.py
+# Ignore .env files
+.env
